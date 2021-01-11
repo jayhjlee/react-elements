@@ -1,22 +1,19 @@
 {
-	"name": "@jayhjlee/re-webelems",
-	"version": "1.0.0",
-	"description": "Package for web elements can be used in React",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/jayhjlee/react-elements.git"
-	},
-	"keywords": [
-		"re-webelems"
-	],
-	"author": "Jay Lee",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/jayhjlee/react-elements/issues"
-	},
-	"homepage": "https://github.com/jayhjlee/react-elements#readme"
+  "name": "re-webelems",
+  "version": "1.0.0",
+  "description": "Package for web elements in React component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayhjlee/react-elements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayhjlee/react-elements/issues"
+  },
+  "homepage": "https://github.com/jayhjlee/react-elements#readme"
 }
