@@ -1,3 +1,3 @@
-# react-web-elements
+# re-webelems
 
-Package for various elements that can be used in React.
+Package for various web elements that can be used in React.
