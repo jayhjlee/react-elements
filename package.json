@@ -1,5 +1,5 @@
 {
-	"name": "re-webelems",
+	"name": "@jayhjlee/re-webelems",
 	"version": "1.0.0",
 	"description": "Package for web elements can be used in React",
 	"main": "index.js",
